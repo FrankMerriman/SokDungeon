@@ -1,6 +1,12 @@
 # Dependencies
 
-This project was originally written and tested using `Java 11`. To run the game you will also need `JavaFx`. If you wish to run the test files or view test coverage, you will also need `JUnit` and `Gradle` respectively.
+This project was originally written and tested using `Java 11`. To run the game you will also need `JavaFx`. If you wish to run the test files or view test coverage, you will also need `JUnit` and `Gradle` respectively. So far this project has only been successfully tested on the Linux version of JavaFx.
+
+## Set Up
+
+### Java
+
+### JavaFX
 
 
 # How to run
