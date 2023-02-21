@@ -8,6 +8,10 @@ This project was originally written and tested using `Java 11`. To run the game 
 
 ### JavaFX
 
+### JUnit
+
+### Gradle
+
 
 # How to run
 This project is intended to be run using VScode. Once you have set up all dependencies you can simply navigate to `src/unsw/dungeon/DungeonApplication.java` and click the button labelled `Run` above the function called `main`:
