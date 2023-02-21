@@ -4,6 +4,11 @@ This project was originally written and tested using `Java 11`. To run the game 
 
 ## Set Up
 
+### VScode
+Install Microsoft's `Extension Pack for Java`. This allows you to run the project from VScode.
+
+![logo of the extension pack](https://user-images.githubusercontent.com/68456230/220223803-34f16355-98f5-4afe-b669-e0f8af25f75c.png)
+
 ### Java
 
 ### JavaFX
